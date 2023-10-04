@@ -1,6 +1,12 @@
-# bloc_partice
+# Bloc Partice
 
-A new Flutter project.
+Bloc Partice is a good early partice for making flutter app with Bloc State  Mangement with extension of Bloc and package of Flutter_bloc
+
+ 
+## ScreenShot
+
+![](https://github.com/hannan248/Blloc-Partice/blob/master/Bloc%20paritce.jpg?raw=true)
+
 
 ## Getting Started
 
